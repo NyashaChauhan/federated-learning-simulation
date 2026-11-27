@@ -45,3 +45,12 @@ Coming soon.
 ## Contributors
 
 Nyasha Chauhan
+
+## Development Workflow
+
+This project follows an iterative development approach using GitHub.
+
+- Tasks are tracked using GitHub Issues.
+- Features are developed using separate branches.
+- Pull requests are used to review and merge changes.
+- Progress is tracked through project milestones.
